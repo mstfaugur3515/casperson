@@ -1,0 +1,16 @@
+{
+  "token":"MTE4MTYzMTA0NDI2NTQ2Mzg1MA.GaU5j8.DLHMIvikbsCUozaakV8Kv19S8W71lrFolMlHMs",
+  "prefix": "!",
+  
+  "clientID": "16f8ba22d3b74b5db208bfaa970c8f3d",
+  "clientSecret": "f335e0719e1a41b7a0a4689285fad780",
+  "nodes": [
+    {
+      "host": "n1.ll.darrennathanael.com",
+      "port": 2269,
+      "password": "glasshost1984",
+      "secure": false
+
+    }
+  ]
+  }
